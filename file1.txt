@@ -10,5 +10,5 @@ void function2()
 
 void function3()
 {
-
+	printf("Some text\n");
 }
