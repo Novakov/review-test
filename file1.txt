@@ -12,4 +12,5 @@ void function3()
 {
 	printf("Some text\n");
 	printf("Some text 2\n");
+	printf("Some text 3\n");
 }
