@@ -8,6 +8,7 @@ void function2()
 {
     std::cout << "func2 mark 1" << std::endl;
     std::cout << "func2 mark 2" << std::endl;
+    std::cout << "func2 mark 3" << std::endl;
 }
 
 void function3()
